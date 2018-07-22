@@ -5,12 +5,13 @@
 
 # Site
 title: KJ in the Garden
-subtitle: 김정원입니다.<br/>컴퓨터 공부를 하고 있으며 지금은 여행중입니다.
-description: hello.
+subtitle: 컴퓨터 공부와 여행 이야기를 씁니다.
+description: 잘 살기 위해 고민하고 있습니다.
 author: Jungwon Kim
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ko
 date_format: '%Y-%m-%d'
+
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
@@ -213,7 +214,9 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social:
+  GitHub: https://github.com/kjthegarden
+  Instagram: https://instagram.com/nyangarchive
   #LinkLabel: Link
 
 
@@ -229,11 +232,12 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  Instagram: instagram
 
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /assets/images/avatar.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -433,7 +437,7 @@ gitalk:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-#google_site_verification:
+google_site_verification: google411a908f45e0c189.html
 
 # Google Analytics
 #google_analytics:
